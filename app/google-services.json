@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "622909186238",
+    "firebase_url": "https://crudfirebase-f682f-default-rtdb.firebaseio.com",
+    "project_id": "crudfirebase-f682f",
+    "storage_bucket": "crudfirebase-f682f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622909186238:android:4128216d5f106e981bfeef",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh3Jfs7PhI_hfHrnOa9pPtfscmWjDBhYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
